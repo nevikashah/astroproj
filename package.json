@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "astro dev",
-    "build": "astro build"
+    "build": "astro build",
+    "deploy": "wrangler deploy"
   },
   "devDependencies": {
     "astro": "^0.12.9",
